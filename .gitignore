@@ -3,3 +3,9 @@
 ################################################################################
 
 /src/ShoppingCart/obj
+/src/ShoppingCart.Tests/bin/Debug/netcoreapp3.1
+/src/ShoppingCart.Tests/obj/Debug/netcoreapp3.1
+/src/ShoppingCart.Tests/obj
+/src/ShoppingCart.v3.ncrunchsolution.user
+/src/ShoppingCart.v3.ncrunchsolution
+/.vs/slnx.sqlite
